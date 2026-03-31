@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "featured": "com.claudroid.reddit",
+  "apps": [
+    {
+      "id": "com.claudroid.reddit",
+      "name": "Reddit",
+      "desc": "Browse Reddit — home feed, subreddits, posts and comments. Sort by Hot, New, Top, Rising.",
+      "icon": "🤖",
+      "color": "#FF4500",
+      "version": "v1.0",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Reddit.cap"
+    },
+    {
+      "id": "com.claudroid.hackernews",
+      "name": "Hacker News",
+      "desc": "Browse Hacker News — top stories, new, ask, show, jobs. Powered by the official HN API.",
+      "icon": "🟠",
+      "color": "#FF6600",
+      "version": "v1.0",
+      "category": "Social",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/HackerNews.cap"
+    },
+    {
+      "id": "com.claudroid.weather",
+      "name": "Weather",
+      "desc": "Current conditions, hourly forecasts, and 7-day outlook for any city. No API key needed.",
+      "icon": "🌤️",
+      "color": "#1a73e8",
+      "version": "v1.0",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Weather.cap"
+    },
+    {
+      "id": "com.claudroid.wikipedia",
+      "name": "Wikipedia",
+      "desc": "Search, browse featured articles, explore topics. Supports 10 languages.",
+      "icon": "📖",
+      "color": "#1a1a1a",
+      "version": "v1.0",
+      "category": "Reference",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Wikipedia.cap"
+    },
+    {
+      "id": "com.claudroid.minesweeper",
+      "name": "Minesweeper",
+      "desc": "Classic Minesweeper with 3 difficulty levels, timer, and flag support.",
+      "icon": "💣",
+      "color": "#1a2a1a",
+      "version": "v1.0",
+      "category": "Games",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Minesweeper.cap"
+    },
+    {
+      "id": "com.claudroid.2048",
+      "name": "2048",
+      "desc": "Slide tiles to combine them and reach 2048! Swipe or use arrow keys. Includes undo and best score.",
+      "icon": "🎯",
+      "color": "#07090f",
+      "version": "v1.0",
+      "category": "Games",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/2048.cap"
+    },
+    {
+      "id": "com.claudroid.relaxingtangle",
+      "name": "Relaxing Tangle",
+      "desc": "A relaxing tangle puzzle game. Draw lines, untangle the nodes, and find your zen.",
+      "icon": "🌿",
+      "color": "#07080d",
+      "version": "v1.0",
+      "category": "Games",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/RelaxingTangle.cap"
+    }
+  ]
+}
