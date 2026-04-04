@@ -1,7 +1,67 @@
 {
-  "version": "1.0",
-  "featured": "com.claudroid.reddit",
+  "version": "1.1",
+  "featured": "com.claudroid.paint",
   "apps": [
+    {
+      "id": "com.claudroid.paint",
+      "name": "Paint",
+      "desc": "Touch drawing app with pen, eraser, fill bucket, colour picker, adjustable size, undo/redo, and save as PNG.",
+      "icon": "🎨",
+      "color": "#1a0a2e",
+      "version": "v1.0",
+      "category": "Creative",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Paint.cap"
+    },
+    {
+      "id": "com.claudroid.habits",
+      "name": "Habit Tracker",
+      "desc": "Track daily habits with streaks and a 30-day history grid. Up to 10 custom habits. Saved locally.",
+      "icon": "✅",
+      "color": "#0a1a10",
+      "version": "v1.0",
+      "category": "Productivity",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/HabitTracker.cap"
+    },
+    {
+      "id": "com.claudroid.pomodoro",
+      "name": "Pomodoro",
+      "desc": "Focus timer with work/break cycles, session counter, customisable durations and audio alert.",
+      "icon": "🍅",
+      "color": "#2e0a0a",
+      "version": "v1.0",
+      "category": "Productivity",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Pomodoro.cap"
+    },
+    {
+      "id": "com.claudroid.budget",
+      "name": "Budget",
+      "desc": "Personal budget tracker. Log income and expenses by category, see your balance and totals. Saved locally.",
+      "icon": "💰",
+      "color": "#0a1e0a",
+      "version": "v1.0",
+      "category": "Productivity",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Budget.cap"
+    },
+    {
+      "id": "com.claudroid.flashcards",
+      "name": "Flashcards",
+      "desc": "Flip cards study tool with multiple decks and spaced-repetition scoring. Create your own cards. Saved locally.",
+      "icon": "🃏",
+      "color": "#1a1a0a",
+      "version": "v1.0",
+      "category": "Productivity",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/Flashcards.cap"
+    },
+    {
+      "id": "com.claudroid.unitconverter",
+      "name": "Unit Converter",
+      "desc": "Convert length, weight, temperature, speed, area, volume, time and data. Fully offline.",
+      "icon": "📐",
+      "color": "#0a1a2e",
+      "version": "v1.0",
+      "category": "Utilities",
+      "url": "https://raw.githubusercontent.com/dandroid2012/claudroid-store/main/apps/UnitConverter.cap"
+    },
     {
       "id": "com.claudroid.reddit",
       "name": "Reddit",
@@ -55,7 +115,7 @@
     {
       "id": "com.claudroid.2048",
       "name": "2048",
-      "desc": "Slide tiles to combine them and reach 2048! Swipe or use arrow keys. Includes undo and best score.",
+      "desc": "Slide tiles to combine them and reach 2048! Swipe or arrow keys. Undo and best score.",
       "icon": "🎯",
       "color": "#07090f",
       "version": "v1.0",
@@ -65,7 +125,7 @@
     {
       "id": "com.claudroid.relaxingtangle",
       "name": "Relaxing Tangle",
-      "desc": "A relaxing tangle puzzle game. Draw lines, untangle the nodes, and find your zen.",
+      "desc": "A relaxing tangle puzzle. Draw lines, untangle the nodes, find your zen.",
       "icon": "🌿",
       "color": "#07080d",
       "version": "v1.0",
